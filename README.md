@@ -163,7 +163,7 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/RedKatz/SocialMediaHackingToolkit
+git clone https://github.com/NinjaGR/SocialMediaHackingToolkit
 
 cd SocialMediaHackingToolkit
 
